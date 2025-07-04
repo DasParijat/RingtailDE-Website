@@ -32,8 +32,10 @@ FEEDBACK
             Created basic nav bar that has links to sections of each page (Used Gemini to generate base html & css),
             Created plan in README
 
+(7/4/25) - Added some RDE assets under img folder in public folder
 
-# Angular Commands (for reference)
+
+# Angular Guide (for reference)
 npm install -g @angular/cli (Downaload)
 ng v (check version)
 ng new [name] (create angular app)
@@ -59,3 +61,15 @@ ng g pipe [folder]/[name]
 In Angular, pipes are a feature used to transform data directly within templates before it is displayed to the user. They allow for formatting, filtering, and manipulating data in a declarative way, enhancing the presentation layer of an application.)
 
 "ng g pipe pipes/filter-todos"
+
+ngOnInit - function used in component.ts that runs whenever it's initialized
+
+if statement
+@if (todoItems().length) {
+  <h3>Todo List</h3>
+} 
+
+for loop
+@for (todo of todoItems() | filterTodos : searchTerm(); track todo.id) {
+    <app-todo-item (todoToggled)="updateTodoItem(todo)" [todo]="todo"></app-todo-item>
+}
