@@ -28,11 +28,21 @@ FEEDBACK
 -10th section is the end page, thanking the player
 
 # Changelog
-(7/2/25) - Created angular project and git repo,
-            Created basic nav bar that has links to sections of each page (Used Gemini to generate base html & css),
-            Created plan in README
+## 7/5/25
+- Created sections folder
+- Moved app code into home page code
+- Added routes to start and home page in app.routes
+- Made sections folder to hold each section of home (And connected one to home comp itself)
+- Created several other sections (not yet modified, just exist)
+- Created screenshot-desc comp under components (To be used in screenshot section)
 
-(7/4/25) - Added some RDE assets under img folder in public folder
+## 7/4/25
+- Added some RDE assets under `img` folder in `public` folder
+
+## 7/2/25
+- Created Angular project and git repo
+- Created basic nav bar with links to sections of each page (used Gemini to generate base HTML & CSS)
+- Created plan in README
 
 
 # Angular Guide (for reference)
