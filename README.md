@@ -1,31 +1,34 @@
 # RingtailDE-Website
 This is the website that features stuff related to the game Ringtail Definitive Edition
 
+
 # Plan
 -Have website open with one page, then it opens to the main page, where all the content is
 -Have general green/white/yellow colors (Earthy)
 -Using fonts OldNewspaperTypes and Bahnschrift
 
+
 # Sections
-HOME
+## HOME
 -1st section is Ringtail Thumbnail
 -2nd section is links/download to the game itself
 -3rd section is the basic description of the game
 
-SCREENSHOTS
+## SCREENSHOTS
 -4th section is several screenshots, alongside mini descriptions telling game mechanics (player side)
 
-LORE
+## LORE
 -5th section is on Ringtail Lore
 -6th section is on Oswald Lore
 -7th section is on Ringtail Trilogy Lore (Nefarions and Brothers)
 
-GUIDE
+## GUIDE
 -8th section is mini guide on ringtail (attacks, minitails, and bullets)
 
-FEEDBACK
+## FEEDBACK
 -9th section has link/qr code to feedback form
 -10th section is the end page, thanking the player
+
 
 # Changelog
 ## 7/5/25
@@ -43,6 +46,7 @@ FEEDBACK
 - Created Angular project and git repo
 - Created basic nav bar with links to sections of each page (used Gemini to generate base HTML & CSS)
 - Created plan in README
+
 
 
 # Angular Guide (for reference)
