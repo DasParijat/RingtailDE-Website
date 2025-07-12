@@ -34,6 +34,7 @@ This is the website that features stuff related to the game Ringtail Definitive 
 ## 7/12/25
 - Stylized header with Ringtail specific colors and font
 - Replaced section names with names of actual planned sections
+- Worked on having section id handled in each section components html, rather than in home comp html
 
 ## 7/5/25
 - Created sections folder
