@@ -3,19 +3,18 @@
   top: 0; /* Positions it at the very top */
   left: 0; /* Aligns to the left */
   width: 100%; /* Spans the full width of the viewport */
-  background-color: #333; /* Dark background for visibility */
+  background-color: #72751B; /* Dark background for visibility */
   color: white; /* White text */
-  padding: 15px 20px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  padding: 10px 0px;
+  box-shadow: 0 2px 5px #6a6d1a; /* Subtle shadow */
   z-index: 1000; /* Ensures it stays on top of other content */
   display: flex; /* For aligning nav items */
   justify-content: space-between; /* Space out nav items and title */
   align-items: center;
 }
 
-.header h1 {
-  margin: 0;
-  font-size: 24px;
+.header nav {
+  width: 100%;
 }
 
 .header nav ul {
@@ -23,19 +22,24 @@
   margin: 0;
   padding: 0;
   display: flex;
+  align-items: center;
+  justify-content: center; /* Center nav items horizontally */
 }
 
 .header nav li {
-  margin-left: 20px;
+  margin-left: 30px;
 }
 
 .header nav a {
   color: white;
   text-decoration: none;
-  font-weight: bold;
-  transition: color 0.3s ease;
+  font-size: larger;
+  font-family: 'OldNewspaperTypes';
+  font-weight: normal;
+  text-shadow: 0 2px 5px #292929;
+  transition: color 0.2s ease;
 }
 
 .header nav a:hover {
-  color: #007bff; /* Highlight on hover */
+  color: #ffda76; /* Highlight on hover */
 }

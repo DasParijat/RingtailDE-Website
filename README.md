@@ -31,6 +31,10 @@ This is the website that features stuff related to the game Ringtail Definitive 
 
 
 # Changelog
+## 7/12/25
+- Stylized header with Ringtail specific colors and font
+- Replaced section names with names of actual planned sections
+
 ## 7/5/25
 - Created sections folder
 - Moved app code into home page code
