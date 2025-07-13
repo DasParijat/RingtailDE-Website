@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'OldNewspaperTypes';
+  src: url('/assets/fonts/OldNewspaperTypes.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .header {
   position: fixed; /* Makes the header stay in place */
   top: 0; /* Positions it at the very top */
@@ -34,7 +41,7 @@
   color: white;
   text-decoration: none;
   font-size: larger;
-  font-family: 'OldNewspaperTypes';
+  font-family: 'OldNewspaperTypes', Bahnschrift, Arial, sans-serif; 
   font-weight: normal;
   text-shadow: 0 2px 5px #292929;
   transition: color 0.2s ease;
