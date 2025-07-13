@@ -1,15 +1,15 @@
 body {
-  margin-top: 70px; /* Adjust this value to match your header's height + desired spacing */
-  font-family: Arial, sans-serif;
   line-height: 1.6;
 }
 
 .page-section {
   min-height: 80vh; /* Make sections tall enough to scroll */
   padding: 40px 20px;
-  margin-bottom: 20px;
-  background-color: #f4f4f4;
-  border-radius: 8px;
+  margin-bottom: 0px;
+  background-color: #a7ac21;
+  border-radius: 0px;
+  width: 100%;
+  
 }
 
 /* Enable smooth scrolling for anchor links */
