@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
-import { ThumbnailComponent } from '../thumbnail/thumbnail.component';
-import { AccessComponent } from '../access/access.component';
-import { SummaryComponent } from '../summary/summary.component';
+import { ThumbnailComponent } from '../../sub-section/thumbnail/thumbnail.component';
+import { AccessComponent } from '../../sub-section/access/access.component';
+import { SummaryComponent } from '../../sub-section/summary/summary.component';
 
 @Component({
   selector: 'app-home-sec',
