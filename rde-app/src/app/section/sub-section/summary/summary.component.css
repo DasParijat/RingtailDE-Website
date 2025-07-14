@@ -1,0 +1,21 @@
+.summary-text {
+    font-family: Bahnschrift, Arial, sans-serif;
+    color: whitesmoke;
+    font-size: x-large;
+    text-align: center; 
+}
+
+.summary-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100px;
+    max-width: 80%;
+    position: relative;
+    padding: 10px;
+    margin: 0px 8%;
+
+    background-color: #7d801c;
+    border-radius: 10px;
+    box-shadow: #8d9124 0px 0px 05px;
+}
