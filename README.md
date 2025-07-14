@@ -33,7 +33,7 @@ This is the website that features stuff related to the game Ringtail Definitive 
 # Changelog
 ## 7/14/25
 - Added background image for whole page
-
+- Refined thumbnail more, added better sizing and Ringtail image
 ## 7/13/25
 - Reorgnized section components into two seperate types of sections (main sections accessed by header, and sub sections)
 - Created lore sections
