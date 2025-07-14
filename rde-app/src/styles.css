@@ -1,16 +1,9 @@
 body {
   margin-top: 60px;
   line-height: 1.6;
-}
-
-.page-section {
-  min-height: 80vh; /* Make sections tall enough to scroll */
-  padding: 40px 20px;
-  margin-bottom: 0px;
-  background-color: #a7ac21;
-  border-radius: 0px;
-  width: 100%;
-  
+  margin-left: 5%;
+  margin-right: 5%;
+  background-image: url(../public/img/menu_background1.png);
 }
 
 .main-section {
@@ -19,16 +12,16 @@ body {
   top: 0px;
   left: 0px;
   margin: 0px;
-  padding: 0px, 20px;
-  background-color: #a7ac21;
+  padding: 100px, 20px;
+  background-color: #a7ac2100;
   border-radius: 4px;
+  box-shadow: #40420c 0px 0px 15px;
   width: 100%;
-  
 }
 
 .sub-section {
   /* Sub-section styles */
-  background-color: #7c8010;
+  background-color: #7c801013;
   padding: 10px;
   border-radius: 4px;
 }
