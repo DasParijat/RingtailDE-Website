@@ -1,6 +1,4 @@
 .access-page-section {
-    /* Extends styles from .page-section */
-    @extend .page-section;
 
     /* Access-specific customizations */
     background-color: #f5f7fa;

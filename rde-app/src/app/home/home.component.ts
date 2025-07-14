@@ -5,10 +5,12 @@ import { ScreenshotComponent } from '../section/main-section/screenshot/screensh
 import { SummaryComponent } from '../section/sub-section/summary/summary.component';
 import { HomeSecComponent } from '../section/main-section/home-sec/home-sec.component';
 import { LoreComponent } from '../section/main-section/lore/lore.component';
+import { GuideComponent } from '../section/main-section/guide/guide.component';
+import { FeedbackComponent } from '../section/main-section/feedback/feedback.component';
 
 @Component({
   selector: 'app-home',
-  imports: [HeaderComponent, HomeSecComponent, ScreenshotComponent, LoreComponent],
+  imports: [HeaderComponent, HomeSecComponent, ScreenshotComponent, LoreComponent, GuideComponent, FeedbackComponent],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css'
 })
