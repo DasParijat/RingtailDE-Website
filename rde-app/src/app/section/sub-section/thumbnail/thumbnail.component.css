@@ -1,0 +1,39 @@
+.thumbnail-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 300px;
+  position: relative;
+}
+
+.thumbnail-wrapper {
+  position: relative;
+  width: 100%; /* Adjust as needed */
+  height: 70%; /* Adjust as needed */
+}
+
+.main-thumbnail {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 4px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+}
+
+.overlay-thumbnail {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  opacity: 0;
+  transform: translateY(-40px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+  pointer-events: none;
+}
+
+.thumbnail-wrapper:hover .overlay-thumbnail,
+.thumbnail-wrapper:focus .overlay-thumbnail {
+  opacity: 1;
+  transform: translateY(80px);
+}

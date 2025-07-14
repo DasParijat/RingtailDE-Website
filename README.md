@@ -37,6 +37,7 @@ This is the website that features stuff related to the game Ringtail Definitive 
 - Messing with css styling of sections (styles.css)
 - Added header buttons for guide and feedback
 - Added basic html for lore sub components
+- Work on thumbnail styling
 
 ## 7/12/25
 - Stylized header with Ringtail specific colors and font
