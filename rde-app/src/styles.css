@@ -15,15 +15,22 @@ body {
 
 .main-section {
   /* Main section styles */
-  min-height: 80vh;
+  min-height: 40vh; 
+  top: 0px;
+  left: 0px;
+  margin: 0px;
+  padding: 0px, 20px;
   background-color: #a7ac21;
+  border-radius: 4px;
   width: 100%;
+  
 }
 
 .sub-section {
   /* Sub-section styles */
   background-color: #7c8010;
-  padding: 20px;
+  padding: 10px;
+  border-radius: 4px;
 }
 
 /* Enable smooth scrolling for anchor links */
