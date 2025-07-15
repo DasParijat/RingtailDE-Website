@@ -35,6 +35,7 @@ This is the website that features stuff related to the game Ringtail Definitive 
 - Added background image for whole page
 - Refined thumbnail more, added better sizing and Ringtail image
 - Stylized summary component
+- Stylized access component, actual links will be added later.
 
 ## 7/13/25
 - Reorgnized section components into two seperate types of sections (main sections accessed by header, and sub sections)

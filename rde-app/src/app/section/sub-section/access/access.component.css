@@ -1,5 +1,38 @@
 .access-page-section {
+    background-color: #4d5012;
+}
 
-    /* Access-specific customizations */
-    background-color: #f5f7fa;
+.access-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px; /* Centering the links */
+}
+
+.access-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 24px; /* space between items */
+}
+
+.access-links li {
+    display: inline;
+}
+
+.access-links a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: 'OldNewspaperTypes', Bahnschrift, Arial, sans-serif;
+    font-size: x-large;
+    padding: 8px 16px;
+    border-radius: 4px;
+    transition: 0.2s;
+}
+
+.access-links a:hover {
+  color: #ffda76;
 }
