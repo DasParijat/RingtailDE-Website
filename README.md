@@ -7,6 +7,7 @@ This is the website that features stuff related to the game Ringtail Definitive 
 -Have general green/white/yellow colors (Earthy)
 -Using fonts OldNewspaperTypes and Bahnschrift
 
+-For launch, don't have lore or guide
 
 # Sections
 ## HOME
@@ -33,6 +34,7 @@ This is the website that features stuff related to the game Ringtail Definitive 
 # Changelog
 ## 7/16/25
 - Refined styling for screenshot-desc component
+- Hiding lore and guide elements, will be done for the second release of Ringtail
 
 ## 7/15/25
 - Added html & TS code for screenshot-desc and screenshot section

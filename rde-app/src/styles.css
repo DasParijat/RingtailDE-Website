@@ -15,7 +15,7 @@ body {
   padding: 100px, 20px;
   background-color: #a7ac2100;
   border-radius: 4px;
-  /* box-shadow: #40420c 0px 0px 15px; */
+  box-shadow: #40420c 0px 0px 15px;
   width: 100%;
 }
 
