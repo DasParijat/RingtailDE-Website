@@ -31,6 +31,9 @@ This is the website that features stuff related to the game Ringtail Definitive 
 
 
 # Changelog
+## 7/16/25
+- Refined styling for screenshot-desc component
+
 ## 7/15/25
 - Added html & TS code for screenshot-desc and screenshot section
 

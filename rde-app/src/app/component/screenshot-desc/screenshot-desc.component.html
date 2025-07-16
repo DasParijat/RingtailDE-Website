@@ -1,4 +1,10 @@
 <div class="screenshot-desc">
-    <img [src]="descImage" class="screenshot-desc-image" />
-    <p class="screenshot-desc-title">{{ desc() }}</p>
+    <ul class="screenshot-desc-list">
+        <ol><img [src]="descImage" class="screenshot-desc-image" /></ol>
+        <ol>
+            <div class="screenshot-desc-text-wrapper">
+                <p class="screenshot-desc-text">{{ desc() }}</p>
+            </div>
+        </ol>
+    </ul>
 </div>
