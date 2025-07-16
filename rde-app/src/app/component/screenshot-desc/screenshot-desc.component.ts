@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input, input } from '@angular/core';
 
 @Component({
   selector: 'app-screenshot-desc',
@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
   styleUrl: './screenshot-desc.component.css'
 })
 export class ScreenshotDescComponent {
-
+  desc = input<string>("default text")
+  @Input() descImage: string = '';
 }

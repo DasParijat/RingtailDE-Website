@@ -1,0 +1,19 @@
+.screenshot-desc {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.screenshot-desc-image {
+    width: 180px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.screenshot-desc-title {
+    margin: 0;
+    font-size: 1.5rem;
+    color: whitesmoke;
+    font-family: 'OldNewspaperTypes', Bahnschrift, Arial, sans-serif;
+}
