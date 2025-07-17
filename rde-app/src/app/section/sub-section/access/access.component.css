@@ -9,7 +9,7 @@
     align-items: center;
     padding: 20px;
     margin: 0 auto;
-    max-width: 800px; /* Centering the links */
+    max-width: 100%; /* Centering the links */
 }
 
 .access-links ul {

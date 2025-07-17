@@ -37,6 +37,8 @@ This is the website that features stuff related to the game Ringtail Definitive 
 - Hiding lore and guide elements, will be done for the second release of Ringtail
 - Stylizing how the overall organizing of the sections look
 - Added new home page background image (much darker)
+- Added new template for thumbnail image (the sizing is gonna be the final sizing of the thumbnail)
+- Fixed issue with summary section not being as wide as the others (Had to do with padding prop in sub-section class)
 
 ## 7/15/25
 - Added html & TS code for screenshot-desc and screenshot section

@@ -10,9 +10,11 @@
     justify-content: center;
     align-items: center;
     min-height: 100px;
-    min-width: 100%;
-
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    
     background-color: #7d801c;
     border-radius: 10px;
-    /* box-shadow: #8d9124 0px 0px 05px; */
+    /* box-shadow: #8d9124 0px 0px 5px; */
 }

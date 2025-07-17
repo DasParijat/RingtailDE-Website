@@ -20,9 +20,9 @@ body {
 
 .sub-section {
   /* Sub-section styles */
-  padding: 10px;
-  border-radius: 4px;
-  box-shadow: #a7ac2100, 0px 0px 50px;
+  padding: 0px;
+  border-radius: 10px;
+  box-shadow: #ac212100, 0px 0px 1000px;
 }
 
 /* Enable smooth scrolling for anchor links */
