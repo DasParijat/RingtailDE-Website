@@ -3,7 +3,7 @@ body {
   line-height: 1.6;
   margin-left: 5%;
   margin-right: 5%;
-  background-image: url(../public/img/menu_background1.png);
+  background-image: url(../public/img/home_background.png);
 }
 
 .main-section {
@@ -15,15 +15,14 @@ body {
   padding: 100px, 20px;
   background-color: #a7ac2100;
   border-radius: 4px;
-  box-shadow: #40420c 0px 0px 15px;
   width: 100%;
 }
 
 .sub-section {
   /* Sub-section styles */
-  background-color: #7c801013;
   padding: 10px;
   border-radius: 4px;
+  box-shadow: #a7ac2100, 0px 0px 50px;
 }
 
 /* Enable smooth scrolling for anchor links */

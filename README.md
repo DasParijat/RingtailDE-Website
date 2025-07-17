@@ -35,6 +35,8 @@ This is the website that features stuff related to the game Ringtail Definitive 
 ## 7/16/25
 - Refined styling for screenshot-desc component
 - Hiding lore and guide elements, will be done for the second release of Ringtail
+- Stylizing how the overall organizing of the sections look
+- Added new home page background image (much darker)
 
 ## 7/15/25
 - Added html & TS code for screenshot-desc and screenshot section
