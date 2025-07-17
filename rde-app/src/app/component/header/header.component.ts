@@ -11,6 +11,12 @@ export class HeaderComponent {
   viewportScroller : ViewportScroller = inject(ViewportScroller);
   
   scrollToElement(elementID : string): void {
-    this.viewportScroller.scrollToAnchor(elementID);
+    const yOffset = 70; 
+    const element = document.getElementById(elementID);
+    
+    if (element) {
+      const y = element.getBoundingClientRect().top + window.pageYOffset - yOffset;
+      window.scrollTo({ top: y });
+    }
   }
 }
