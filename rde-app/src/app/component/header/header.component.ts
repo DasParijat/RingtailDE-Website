@@ -1,4 +1,4 @@
-import { ViewportScroller } from '@angular/common';
+// import { ViewportScroller } from '@angular/common';
 import { Component, inject } from '@angular/core';
 
 @Component({
@@ -8,7 +8,7 @@ import { Component, inject } from '@angular/core';
   styleUrl: './header.component.css'
 })
 export class HeaderComponent {
-  viewportScroller : ViewportScroller = inject(ViewportScroller);
+  // viewportScroller : ViewportScroller = inject(ViewportScroller);
   
   scrollToElement(elementID : string): void {
     const yOffset = 70; 

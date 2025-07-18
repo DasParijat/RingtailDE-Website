@@ -34,6 +34,7 @@ This is the website that features stuff related to the game Ringtail Definitive 
 # Changelog
 ## 7/17/25
 - Fixed issue of header buttons going to middle of section rather than top of section. The issue was the direct href links which conflicted with any code trying to offset the auto scroll.
+- Refined styling for screenshot-desc component
 
 ## 7/16/25
 - Refined styling for screenshot-desc component
