@@ -1,4 +1,8 @@
 [
+   {
+    "image": "img/menu_background1.png",
+    "description": "Lorem og"
+  },
   {
     "image": "img/rt_ringtail3.png",
     "description": "This is the logo for the Angular framework."

@@ -1,25 +1,40 @@
 .screenshot-desc {
-    width : 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-bottom: 50px;
-}
-
-.screenshot-desc-list {
     list-style: none;
     margin: 0;
     padding: 0;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: left;
+    justify-content: center;
+    margin-bottom: 50px;
+
+    background-color: #7d801c;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.screenshot-desc-list {
+    visibility: hidden;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 
 .screenshot-desc-image {
-    width: 400px;
-    height: 300px;
+    width: 75%;
+    height: 30%;
+    max-height: 550px; 
+    object-fit: cover;
     border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .screenshot-desc-text-wrapper {
@@ -27,6 +42,8 @@
     max-width: 300px; 
     word-break: break-word;
     overflow-wrap: break-word;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .screenshot-desc-text {
