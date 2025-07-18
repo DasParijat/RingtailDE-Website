@@ -1,0 +1,42 @@
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    font-family: OldNewspaperTypes, Bahnschrift, Arial, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 2.5rem;
+
+    background-color: #7d801c;
+    background-color: #4d5012;
+    
+    border-radius: 10px;
+}
+
+.gform {
+    width: 100%;
+    max-width: 640px;
+    min-height: 650px;
+    /* frameborder, marginheight, marginwidth are HTML attributes, not CSS properties */
+    /* If you want to control border and margin via CSS: */
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #7d801c;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: 'OldNewspaperTypes', Bahnschrift, Arial, sans-serif;
+    font-size: 2.5rem;
+    padding: 8px 16px;
+    border-radius: 20px;
+    transition: 0.2s;
+}
+a:hover {
+    color: #ffda76;
+}

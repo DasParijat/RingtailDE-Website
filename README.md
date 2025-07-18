@@ -32,6 +32,11 @@ This is the website that features stuff related to the game Ringtail Definitive 
 
 
 # Changelog
+## 7/18/15
+- Stylized feedback component, similar header to screenshot component.
+- Under feedback, added imbeded google form.
+- Background image is fixed in place.
+
 ## 7/17/25
 - Fixed issue of header buttons going to middle of section rather than top of section. The issue was the direct href links which conflicted with any code trying to offset the auto scroll.
 - Finalizing design for screenshot-desc component, removed use of list.

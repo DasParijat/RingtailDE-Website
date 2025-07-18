@@ -4,6 +4,7 @@ body {
   margin-left: 5%;
   margin-right: 5%;
   background-image: url(../public/img/home_background.png);
+  background-attachment: fixed;
 }
 
 .main-section {
