@@ -1,16 +1,12 @@
 <section id="shot-section" class="main-section">
+    <h1>Screenshots</h1>
     <div class="screenshot-wrapper">
-        <app-screenshot-desc 
-        [descImage]="'img/rt_ringtail3.png'"
-        desc="yo this a screenshot"/>
-        <app-screenshot-desc 
-        [descImage]="'img/rt_ringtail3.png'"
-        desc="yo this a screenshot"/>
-        <app-screenshot-desc 
-        [descImage]="'img/rt_ringtail3.png'"
-        desc=""/>
-        <app-screenshot-desc 
-        [descImage]="'img/menu_background1.png'"
-        desc="LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem"/>
+        @for (item of items; track item.image) {
+            <app-screenshot-desc 
+            [descImage]="item.image"
+            [desc]=item.description/>
+        } @empty {
+            <p>No Screenshots Found</p>
+        }
     </div>
 </section>
