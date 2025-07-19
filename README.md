@@ -32,7 +32,10 @@ This is the website that features stuff related to the game Ringtail Definitive 
 
 
 # Changelog
-## 7/18/15
+## 7/19/25
+- Changed footer text and implementation of links
+
+## 7/18/25
 - Stylized feedback component, similar header to screenshot component.
 - Under feedback, added imbeded google form.
 - Background image is fixed in place.
