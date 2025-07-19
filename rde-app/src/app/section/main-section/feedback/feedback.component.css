@@ -17,7 +17,7 @@ h1 {
 
 .gform {
     width: 100%;
-    max-width: 640px;
+    max-width: 100%;
     min-height: 650px;
     /* frameborder, marginheight, marginwidth are HTML attributes, not CSS properties */
     /* If you want to control border and margin via CSS: */

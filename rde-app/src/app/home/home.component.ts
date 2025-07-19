@@ -5,6 +5,7 @@ import { HomeSecComponent } from '../section/main-section/home-sec/home-sec.comp
 import { LoreComponent } from '../section/main-section/lore/lore.component';
 import { GuideComponent } from '../section/main-section/guide/guide.component';
 import { FeedbackComponent } from '../section/main-section/feedback/feedback.component';
+import { FooterComponent } from '../component/footer/footer.component';
 
 @Component({
   selector: 'app-home',
