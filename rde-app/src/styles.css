@@ -1,10 +1,10 @@
 :root {
-  --header-color: #72751B;
-  --dark-color: #4d5012;
-  --light-color: #7d801c;
-  --text-color: whitesmoke;
-  --text-highlight-color: #ffda76;
-  --background-color: #a7ac2100;
+  --header-color: #6e5211;
+  --dark-color: #5f460d;
+  --light-color: #896207;
+  --text-color: #dad8d3;
+  --text-highlight-color: #f9d060;
+  --background-color: #93781f00;
 }
 
 body {
@@ -12,7 +12,7 @@ body {
   line-height: 1.6;
   margin-left: 5%;
   margin-right: 5%;
-  background-image: url(../public/img/home_background.png);
+  background-image: url(../public/img/home_background2.png);
   background-attachment: fixed;
 }
 

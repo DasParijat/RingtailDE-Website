@@ -8,7 +8,7 @@
   background-color: var(--header-color); /* Dark background for visibility */
   color: var(--text-color); /* White text */
   padding: 10px 0px;
-  box-shadow: 0 2px 5px var(--light-color); /* Subtle shadow */
+  box-shadow: 0 2px 5px var(--dark-color); /* Subtle shadow */
   z-index: 1000; /* Ensures it stays on top of other content */
   display: flex; /* For aligning nav items */
   justify-content: space-between; /* Space out nav items and title */
