@@ -1,6 +1,6 @@
 .summary-text {
     font-family: Bahnschrift, Arial, sans-serif;
-    color: whitesmoke;
+    color: var(--text-color);
     font-size: x-large;
     text-align: center; 
 }
@@ -14,7 +14,7 @@
     margin: 0 auto;
     padding: 10px;
     
-    background-color: #7d801c;
+    background-color: var(--light-color);
     border-radius: 10px;
     /* box-shadow: #8d9124 0px 0px 5px; */
 }

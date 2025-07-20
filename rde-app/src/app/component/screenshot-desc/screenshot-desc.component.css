@@ -8,7 +8,7 @@
     justify-content: center;
     margin-bottom: 50px;
 
-    background-color: #7d801c;
+    background-color: var(--light-color);
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
@@ -49,6 +49,6 @@
 .screenshot-desc-text {
     margin: 0px;
     font-size: 1.2rem;
-    color: whitesmoke;
+    color: var(--text-color);
     font-family: 'OldNewspaperTypes', Bahnschrift, Arial, sans-serif;
 }

@@ -1,3 +1,12 @@
+:root {
+  --header-color: #72751B;
+  --dark-color: #4d5012;
+  --light-color: #7d801c;
+  --text-color: whitesmoke;
+  --text-highlight-color: #ffda76;
+  --background-color: #a7ac2100;
+}
+
 body {
   margin-top: 60px;
   line-height: 1.6;
@@ -14,7 +23,7 @@ body {
   left: 0px;
   margin: 0px;
   padding: 100px, 20px;
-  background-color: #a7ac2100;
+  background-color: var(--background-color);
   border-radius: 4px;
   width: 100%;
 }

@@ -32,6 +32,9 @@ This is the website that features stuff related to the game Ringtail Definitive 
 
 
 # Changelog
+## 7/20/25
+- Refactored CSS files to use color variables in styles.css.
+
 ## 7/19/25
 - Changed footer text and implementation of links
 

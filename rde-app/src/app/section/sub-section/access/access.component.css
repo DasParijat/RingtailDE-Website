@@ -1,11 +1,11 @@
 .access-page-section {
-    background-color: #4d5012;
+    background-color: var(--dark-color);
     margin: 25px auto;
 }
 
 h1 {
     text-align: center;
-    color: whitesmoke;
+    color: var(--text-color);
     font-family: 'OldNewspaperTypes', Bahnschrift, Arial, sans-serif;
     font-size: 2.5rem;
     margin-bottom: 0px;
@@ -34,7 +34,7 @@ h1 {
 
 .access-links a {
     text-decoration: none;
-    color: whitesmoke;
+    color: var(--text-color);
     font-family: 'OldNewspaperTypes', Bahnschrift, Arial, sans-serif;
     font-size: 2rem;
     padding: 8px 16px;
@@ -43,5 +43,5 @@ h1 {
 }
 
 .access-links a:hover {
-  color: #ffda76;
+  color: var(--text-highlight-color);
 }
