@@ -32,6 +32,10 @@ This is the website that features stuff related to the game Ringtail Definitive 
 
 
 # Changelog
+## 7/21/25
+- Added new images for thumbnail component
+- Added new images for screenshots (testing and actual screenshots)
+
 ## 7/20/25
 - Refactored CSS files to use color variables in styles.css.
 - Changed color palette of website to have a more orange tint, and have the text color be closer to the color of the logo itself.
