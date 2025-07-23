@@ -1,6 +1,11 @@
 .access-page-section {
     background-color: var(--dark-color);
     margin: 25px auto;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    justify-content: center;
+    align-items: center;
 }
 
 h1 {
@@ -44,4 +49,22 @@ h1 {
 
 .access-links a:hover {
   color: var(--text-highlight-color);
+}
+
+.itch-widget {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1060px;
+    height: 175px;
+    border-radius: 10px;
+    border: none;
+    background-color: var(--light-color);
+}
+
+.itch-game {
+    border-radius: 10px;
+    border: none;
+    justify-content: center;
+    align-items: center;
 }
