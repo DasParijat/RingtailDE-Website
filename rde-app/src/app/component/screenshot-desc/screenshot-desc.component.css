@@ -28,9 +28,8 @@
 }
 
 .screenshot-desc-image {
-    width: 75%;
-    height: 30%;
-    max-height: 550px; 
+    width: 100%;
+    height: 100%; 
     object-fit: cover;
     border-radius: 8px;
 

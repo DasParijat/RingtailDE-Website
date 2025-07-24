@@ -35,6 +35,9 @@ This is the website that features stuff related to the game Ringtail Definitive 
 ## 7/24/25
 - Added 5 gifs to be displayed as screenshots
 - Added description for each gif, as well as compressing them by size so they don't lag the page as much.
+- Reshaped how screenshots/gifs are displayed
+- Renamed screenshots to gifs/gameplay gifs (Only on visible text, not in code)
+
 
 ## 7/23/25
 - Added itch.io widget to access component, 
