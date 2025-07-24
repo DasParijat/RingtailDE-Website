@@ -56,3 +56,31 @@
   opacity: 1;
   transform: translateY(75%);
 }
+
+.logo-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    margin: 20px auto;
+    width: 100%;
+    height: 100%;
+
+    padding: 40px 0px;
+    color: var(--text-color);
+    text-align: center;
+    font-size: 2.5rem;
+
+    background-image: url(../../../../../public/img/menu_background2.png);
+    background-attachment: fixed;
+    
+    border-radius: 10px;
+}
+
+.logo {
+    width: 100%;
+    height: auto;
+    max-width: 600px; /* Adjust as needed */
+    border-radius: 10px;
+    opacity: 1;
+}

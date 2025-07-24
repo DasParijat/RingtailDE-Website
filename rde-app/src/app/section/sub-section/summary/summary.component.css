@@ -15,6 +15,8 @@
     padding: 10px;
     
     background-color: var(--light-color);
+    background-image: url(../../../../../public/img/menu_background2.png);
+    background-attachment: fixed;
     border-radius: 10px;
     /* box-shadow: #8d9124 0px 0px 5px; */
 }

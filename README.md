@@ -37,6 +37,8 @@ This is the website that features stuff related to the game Ringtail Definitive 
 replacing the old buttons.
 - Added extra assets into public folder.
 - Embedded Ringtail DE itself into the access component.
+- Made lighter colored components have menu background2 as their background instead.
+- Redone thumbnail component to just show logo with no animation.
 
 ## 7/21/25
 - Added new images for thumbnail component

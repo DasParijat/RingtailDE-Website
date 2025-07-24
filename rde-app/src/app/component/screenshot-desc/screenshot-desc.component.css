@@ -9,6 +9,9 @@
     margin-bottom: 50px;
 
     background-color: var(--light-color);
+    background-image: url(../../../../public/img/menu_background2.png);
+    background-attachment: fixed;
+
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
