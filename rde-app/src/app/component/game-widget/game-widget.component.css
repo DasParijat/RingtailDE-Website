@@ -1,0 +1,14 @@
+.itch-game {
+    border-radius: 10px;
+    border: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.itch-game-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+    max-width: 1280px; /* Adjust as needed */
+}
