@@ -1,12 +1,13 @@
 .summary-text {
     font-family: Bahnschrift, Arial, sans-serif;
     color: var(--text-color);
-    font-size: x-large;
+    text-shadow: var(--header-color) 5px 5px 10px;
+    font-size: 2rem;
     text-align: center; 
 }
 
 .summary-wrapper {
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
     min-height: 100px;
@@ -20,3 +21,4 @@
     border-radius: 10px;
     /* box-shadow: #8d9124 0px 0px 5px; */
 }
+

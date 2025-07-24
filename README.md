@@ -39,6 +39,8 @@ replacing the old buttons.
 - Embedded Ringtail DE itself into the access component.
 - Made lighter colored components have menu background2 as their background instead.
 - Redone thumbnail component to just show logo with no animation.
+- Moved summary section to be under thumbnail, and added an actual summary.
+- Header buttons are now more flexible, spaced out via percentage rather than pixels.
 
 ## 7/21/25
 - Added new images for thumbnail component
