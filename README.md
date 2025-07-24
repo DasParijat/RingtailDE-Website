@@ -32,6 +32,9 @@ This is the website that features stuff related to the game Ringtail Definitive 
 
 
 # Changelog
+## 7/24/25
+- Added 5 gifs to be displayed as screenshots
+
 ## 7/23/25
 - Added itch.io widget to access component, 
 replacing the old buttons.

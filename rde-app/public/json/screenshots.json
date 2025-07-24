@@ -1,18 +1,22 @@
 [
-   {
-    "image": "img/screenshots/ss2.gif",
-    "description": "Lorem og"
-  },
-  {
-    "image": "img/rt_ringtail3.png",
-    "description": "This is the logo for the Angular framework."
-  },
-  {
-    "image": "img/cat.gif",
-    "description": ""
-  },
-  {
-    "image": "img/menu_background1.png",
-    "description": "Lorem"
-  }
+    {
+        "image": "img/screenshots/rt_gif1.gif",
+        "description": "Start of the fight"
+    },
+    {
+        "image": "img/screenshots/rt_gif2.gif",
+        "description": ""
+    },
+    {
+        "image": "img/screenshots/rt_gif3.gif",
+        "description": ""
+    },
+    {
+        "image": "img/screenshots/rt_gif4.gif",
+        "description": ""
+    },
+    {
+        "image": "img/screenshots/rt_gif5.gif",
+        "description": ""
+    }
 ]
