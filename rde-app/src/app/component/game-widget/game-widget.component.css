@@ -5,6 +5,13 @@
     align-items: center;
 }
 
+.itch-thumbnail {
+    border-radius: 10px;
+    border: none;
+    justify-content: center;
+    align-items: center;
+}
+
 .itch-game-wrapper {
     display: flex;
     justify-content: center;
