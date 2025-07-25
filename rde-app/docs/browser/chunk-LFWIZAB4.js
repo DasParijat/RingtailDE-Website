@@ -1,0 +1,1 @@
+import{Ca as o,Da as a,Ia as s,ra as n}from"./chunk-YAIHQ7OK.js";var r=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=n({type:e,selectors:[["app-start"]],decls:2,vars:0,template:function(t,i){t&1&&(o(0,"p"),s(1,"start works!"),a())},encapsulation:2})};export{r as StartComponent};

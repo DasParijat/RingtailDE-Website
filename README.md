@@ -36,6 +36,7 @@ This is the website that features stuff related to the game Ringtail Definitive 
 - Added proper thumbnail for game widget.
 - All clickable things will now turn the cursor into a pointer.
 - Added most recent link to itch version of Ringtail DE.
+- Created docs for github pages
 
 ## 7/24/25
 - Added 5 gifs to be displayed as screenshots
@@ -156,6 +157,10 @@ ng g pipe [folder]/[name]
 In Angular, pipes are a feature used to transform data directly within templates before it is displayed to the user. They allow for formatting, filtering, and manipulating data in a declarative way, enhancing the presentation layer of an application.)
 
 "ng g pipe pipes/filter-todos"
+
+ng b --output-path docs --base-href /[insert name of git folder]/
+
+Ex. ng b --output-path docs --base-href /RingtailDE-Website/
 
 ngOnInit - function used in component.ts that runs whenever it's initialized
 
