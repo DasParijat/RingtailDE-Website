@@ -1,0 +1,22 @@
+[
+    {
+        "image": "img/screenshots/rt_gif1.gif",
+        "description": "Start of the fight"
+    },
+    {
+        "image": "img/screenshots/rt_gif2.gif",
+        "description": "Game Over"
+    },
+    {
+        "image": "img/screenshots/rt_gif3.gif",
+        "description": "Minitail Madness"
+    },
+    {
+        "image": "img/screenshots/rt_gif4.gif",
+        "description": "Activating Oswald's Power"
+    },
+    {
+        "image": "img/screenshots/rt_gif5.gif",
+        "description": "Victory Screen & Timed mode"
+    }
+]
