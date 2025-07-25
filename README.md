@@ -37,6 +37,7 @@ This is the website that features stuff related to the game Ringtail Definitive 
 - All clickable things will now turn the cursor into a pointer.
 - Added most recent link to itch version of Ringtail DE.
 - Created docs for github pages
+- Moved all angular app code under root
 
 ## 7/24/25
 - Added 5 gifs to be displayed as screenshots
