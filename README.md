@@ -32,6 +32,11 @@ This is the website that features stuff related to the game Ringtail Definitive 
 
 
 # Changelog
+## 7/25/25
+- Added proper thumbnail for game widget.
+- All clickable things will now turn the cursor into a pointer.
+- Added most recent link to itch version of Ringtail DE.
+
 ## 7/24/25
 - Added 5 gifs to be displayed as screenshots
 - Added description for each gif, as well as compressing them by size so they don't lag the page as much.

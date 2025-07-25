@@ -1,13 +1,13 @@
 <div class="itch-game-wrapper">
     @if (is_playable) {
-        <iframe class="itch-game" frameborder="0" src="https://itch.io/embed-upload/14387180?color=333333" 
+        <iframe frameborder="0" src="https://itch.io/embed-upload/14409193?color=5f460d" 
         allowfullscreen="" width="1280" height="740">
-            <a href="https://spitfiregames.itch.io/ringtail-de"></a>
-        </iframe> 
+            <a href="https://spitfiregames.itch.io/ringtail-de">Play Ringtail Definitive Edition on the web (itch.io)</a>
+        </iframe>
     } 
     @else {
         <img class="itch-thumbnail" 
-            src="img/cat.gif"
+            src="img/itch_thumbnail.png"
             (click)="enable_is_playable()" />
     }
 </div>
