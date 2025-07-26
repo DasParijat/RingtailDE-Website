@@ -32,6 +32,10 @@ This is the website that features stuff related to the game Ringtail Definitive 
 
 
 # Changelog
+## 7/26/25
+- Updated game widget
+- Updated text above direct itch.io link
+
 ## 7/25/25
 - Added proper thumbnail for game widget.
 - All clickable things will now turn the cursor into a pointer.
