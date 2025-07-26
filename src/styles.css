@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'OldNewspaperTypes';
+  src: url(../public/font/OldNewspaperTypes.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bahnschrift';
+  src: url(../public/font/bahnschrift.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 :root {
   --header-color: #6e5211;
   --dark-color: #5f460d;

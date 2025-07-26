@@ -38,6 +38,8 @@ This is the website that features stuff related to the game Ringtail Definitive 
 - Added most recent link to itch version of Ringtail DE.
 - Created docs for github pages
 - Moved all angular app code under root
+- Imported fonts via @font-face
+- Added deploy script to package.json
 
 ## 7/24/25
 - Added 5 gifs to be displayed as screenshots
