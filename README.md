@@ -33,8 +33,9 @@ This is the website that features stuff related to the game Ringtail Definitive 
 
 # Changelog
 ## 7/26/25
-- Updated game widget
-- Updated text above direct itch.io link
+- Updated game widget.
+- Updated text above direct itch.io link.
+- Updated widget to itch page.
 
 ## 7/25/25
 - Added proper thumbnail for game widget.
