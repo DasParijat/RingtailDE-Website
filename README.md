@@ -1,5 +1,6 @@
 # RingtailDE-Website
 This is the website that features stuff related to the game Ringtail Definitive Edition
+<a>dasparijat.github.io/RingtailDE-Website/</a>
 
 # Changelog
 ## 7/26/25
