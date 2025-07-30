@@ -1,6 +1,7 @@
 # RingtailDE-Website
-This is the website that features stuff related to the game Ringtail Definitive Edition
-<a>dasparijat.github.io/RingtailDE-Website/</a>
+This website built with Angular holds info related to my game, Ringtail Definitive Edition
+
+dasparijat.github.io/RingtailDE-Website/
 
 # Changelog
 ## 7/26/25
