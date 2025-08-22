@@ -4,6 +4,9 @@ This website built with Angular holds info related to my game, Ringtail Definiti
 dasparijat.github.io/RingtailDE-Website/
 
 # Changelog
+## 8/22/25
+- Added last updated text above game widget
+
 ## 7/26/25
 - Updated game widget.
 - Updated text above direct itch.io link.
