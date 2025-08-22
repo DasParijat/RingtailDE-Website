@@ -6,6 +6,7 @@ dasparijat.github.io/RingtailDE-Website/
 # Changelog
 ## 8/22/25
 - Added last updated text above game widget
+- Updated docs
 
 ## 7/26/25
 - Updated game widget.
