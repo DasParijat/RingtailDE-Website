@@ -1,5 +1,6 @@
 # RingtailDE-Website
-This website built with Angular holds info related to my game, Ringtail Definitive Edition
+This website built with Angular holds info related to my game, Ringtail Definitive Edition.
+Of note that the code for the game itself is under a seperate, private, repo, built using Godot.
 
 dasparijat.github.io/RingtailDE-Website/
 
