@@ -5,6 +5,9 @@ Of note that the code for the game itself is under a seperate, private, repo, bu
 dasparijat.github.io/RingtailDE-Website/
 
 # Changelog
+## 1/6/26
+- Updated game widget to have latest version of Ringtail DE (v1.1)
+
 ## 8/23/25
 - Made Angular Guide a seperate markdown file.
 
