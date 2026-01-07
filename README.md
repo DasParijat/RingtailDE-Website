@@ -1,10 +1,17 @@
 # RingtailDE-Website
 This website built with Angular holds info related to my game, Ringtail Definitive Edition.
-Of note that the code for the game itself is under a seperate, private, repo, built using Godot.
+Of note that the code for the game itself is under a seperate repo, built using Godot 4.3 with GDScript.
 
+## Webpage Link
 dasparijat.github.io/RingtailDE-Website/
 
+## Original Game Code Repository
+https://github.com/DasParijat/Ringtail-DE
+
 # Changelog
+## 1/7/26
+- Updated Angular Guide and README
+
 ## 1/6/26
 - Updated game widget to have latest version of Ringtail DE (v1.1)
 - Updated docs
